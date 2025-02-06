@@ -1,7 +1,20 @@
 # Desinic - Get Best UI Design  
 
-Desinic is a responsive and user-friendly website designed to provide top-notch UI design solutions. With its elegant design and seamless navigation, Desinic helps users explore various services, features, and blog updates in a visually appealing manner.  
+Desinic is a responsive and user-friendly website designed to provide top-notch UI design solutions. With its elegant design and seamless navigation, Desinic helps users explore various services, features, and blog updates in a visually appealing manner.
 
+---
+
+## 📂 Project Structure  
+Desinic/
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── script.js
+│   └── assets/
+│       └── images
+├── index.html
+└── README.md
 ---
 
 ## 🌟 Features  
@@ -16,12 +29,26 @@ Desinic is a responsive and user-friendly website designed to provide top-notch 
 
 ## 🚀 Technologies Used  
 
-- **HTML5:** Semantic and well-structured markup for better accessibility.  
-- **CSS3:** Custom styles and animations for polished visuals.  
-- **Google Fonts:** Elegant typography with `Poppins` and `Source Sans Pro`.  
-- **Ionicons:** Icon set to enhance user interaction and design.  
-
+- HTML5
+- CSS3
+- JavaScript
 ---
 
 ## 📂 Project Structure  
+Desinic/
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── script.js
+│   └── assets/
+│       └── images
+├── index.html
+└── README.md
+
+---
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone <repository-url>
 
