@@ -19,9 +19,4 @@ Desinic is a responsive and user-friendly website designed to provide top-notch 
 - CSS3
 - JavaScript
   
----
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone <https://github.com/sultancodess/desinic.git>
 
